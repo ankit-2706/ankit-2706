@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C++,DSA,MERN TechStack**
 
-- 📫 How to reach me **coderankit27@gmail.com**
+- 📫 How to reach me **chouhanankit2719@gmail.com**
 
 - ⚡ Fun fact **I am funny😅**
 
