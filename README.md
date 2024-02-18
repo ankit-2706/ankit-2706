@@ -1,3 +1,4 @@
+![logo](https://github.com/ankit-2706/ankit-2706/blob/main/ANKIT%20CHOUHAN.png)
 <h1 align="center">Hi 👋, I'm Ankit Chouhan</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
